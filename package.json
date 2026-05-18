@@ -1,0 +1,12 @@
+{
+  "name": "computer-agent-electron",
+  "version": "0.1.0",
+  "private": true,
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
