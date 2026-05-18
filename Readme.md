@@ -14,6 +14,10 @@ A desktop automation app built with Electron and Python. It allows the user to e
 - Windows 10/11 or compatible desktop OS
 - Node.js and npm
 - Python 3.10+ installed and accessible
+- Run following commands:
+   - python -m venv venv
+   - venv\Scripts\activate
+   - pip install -r requirements.txt
 
 ## Setup
 
